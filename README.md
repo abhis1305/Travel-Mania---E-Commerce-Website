@@ -1,4 +1,4 @@
-# Astore - Ecommerce website
+# Travel Mania - Ecommerce website
 
 An e-commerce travel website enables users to search for and book travel packages online, offering detailed information about each tour. It features secure payment options, user account management, and real-time availability. The site also provides customer support through live chat and a FAQ section.
 
@@ -25,8 +25,8 @@ An e-commerce travel website enables users to search for and book travel package
 
 
 ## Screenshots
-<img src="Pics Miniproject/Main Page.jpg" width = "100%">
-img
+<img src="./Pics Miniproject/GUI Snippet/Main Page.jpg" width = "100%">
+
 
 
 
